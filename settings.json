@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "epsteintrump69.aternos.me",
+    "port": 21590,
     "version": "",
     "try-creative": false
   },
@@ -41,9 +41,9 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
-  "movement": {
+  "movement": {true 
     "enabled": true,
-    "circle-walk": {
+    "circle-walk": {true
       "enabled": true,
       "radius": 4,
       "speed": 3000
